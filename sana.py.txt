@@ -1,2 +1,1 @@
-print("sahara desert located in rajasthan")
-print("she is very cute")
+print("she is veri beautiful girl")
